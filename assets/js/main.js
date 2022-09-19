@@ -65,7 +65,7 @@
 
 })(jQuery);
 
-//Example fetch using DnD5eAPI - place subclasses in ul
+//Fetch using DnD5eAPI - place subclasses in ul
 document.querySelector('button').addEventListener('click', getFetch)
 
 function getFetch(){
