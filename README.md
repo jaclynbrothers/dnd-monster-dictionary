@@ -3,7 +3,7 @@ This application accesses the Dungeons & Dragons 5th Edition Monsters API to ret
 
 **Link to project:** https://jaclynbrothers.github.io/dnd-monster-stat-lookup/
 
-https://user-images.githubusercontent.com/102431119/191099089-7b668498-0919-4993-8203-871c8bce560d.mp4
+https://user-images.githubusercontent.com/102431119/191139184-06f3d617-ad2b-4fa7-b2eb-b38ef030923a.mp4
 
 ## How It's Made
 
